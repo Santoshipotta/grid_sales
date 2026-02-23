@@ -24,6 +24,7 @@ The SQL analysis includes:
  Power BI Dashboard
 
 The Power BI dashboard visualizes:
+
 - Year‑over‑Year gross margin percentage trends.
 - Revenue breakdown by category, product, and region.
 - Low‑margin products.
